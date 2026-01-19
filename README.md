@@ -1,6 +1,7 @@
 # 金融风险分析系统
 
 一个基于Python和Flask的金融风险分析系统，用于分析股票的综合风险并生成详细的分析报告。
+
 <img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/e022114f-8857-4c82-bfe4-fe2cb5f25905" />
 
 ## 功能特性
@@ -230,7 +231,7 @@ RSI(Relative Strength Index)指标分析用于评估股票的超买超卖状态�
 
 1. 克隆项目
    ```bash
-   git clone https://github.com/qinghuaxu548-byte/financial-risk-analysis.git
+   git clone https://github.com/777isen/financial-risk-analysis.git
    cd financial-risk-analysis
    ```
 
